@@ -1,0 +1,8 @@
+{
+  "name": "built with bacon",
+  "short_name": "built",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/"
+}
